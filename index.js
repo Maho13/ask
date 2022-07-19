@@ -3,6 +3,8 @@ const yesBtn = document.querySelector('#yesBtn');
 yesBtn.addEventListener('click',function () {
     alert('Sabía que querías, me encantas mucho anshbshvbgsnjncjv')
     alert('MI BLANQUITO PRECIOSOO')
+    alert('Te extraño:(')
+    alert('Estás guapísimo mi bb hshnbdhgv')
 });
 
 const noBtn = document.querySelector('noBtn');
